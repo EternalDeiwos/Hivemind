@@ -1,2 +1,5 @@
 # Hivemind
-A management system built for the purpose of administering the annual Rhodes University Humans vs. Zombies.
+[![hivemind build health](https://travis-ci.org/EternalDeiwos/Hivemind.svg)](https://travis-ci.org/EternalDeiwos/Hivemind)
+
+New HvZ System built for Rhodes University, South Africa
+TODO: This readme...
